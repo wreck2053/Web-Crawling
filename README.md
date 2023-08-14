@@ -1,5 +1,5 @@
 # DATA EXTRACTION & NLP
-The objective of this assignment is to extract textual data articles from a  URL and perform text analysis to compute variables that are explained below. 
+The objective of this assignment is to extract textual data articles from a  URL and perform text analysis to compute variables mentioned below.
 
 1.	POSITIVE SCORE
 2.	NEGATIVE SCORE
